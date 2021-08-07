@@ -1,5 +1,5 @@
 
-# Project name here
+# Sample Project
 
 
 
@@ -7,13 +7,13 @@ This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbdev_tmp`
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+Juat use it:
 
-```python
+```
 say_hello("Ayush")
 ```
 
