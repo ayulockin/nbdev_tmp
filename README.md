@@ -3,7 +3,7 @@
 
 
 
-This file will become your README and also the index of your documentation.
+Nbdev is fun. I am still learning it though!
 
 ## Install
 
@@ -11,7 +11,7 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-Juat use it:
+Just use it:
 
 ```
 say_hello("Ayush")
